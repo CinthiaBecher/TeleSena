@@ -52,7 +52,8 @@ No seu sistema devem existir, no mínimo, as seguintes classes:
   • Principal, que possui o método main. No main, os métodos das classes anteriores devem ser chamados para que o sistema funcione conforme descrito anteriormente
   • Demais classes que você achar serem necessárias, desde que não alterem a lógica e o funcionamento do sistema conforme descrito anteriormente
 
-  Considerações adicionais
+
+Considerações adicionais
   • Para o sorteio de valores, você deve utilizar o método Math.random(). O Math.random() sorteia um valor double no intervalo [0..1[ (0 fechado e 1 aberto).
   • Você pode sortear o nome das pessoas e a quantidade de Tele Senas que cada uma delas vai comprar, desde que siga as informações descritas anteriormente sobre o funcionamento do sistema. Assim sendo, não é necessário utilizar a classe Teclado para obter informações de cada uma das pessoas.
   • Não esqueça de garantir que os valores sorteados tanto do sorteio quanto dos conjuntos das Tele Senas não contenham valores repetidos!
