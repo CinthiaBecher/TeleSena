@@ -4,8 +4,11 @@ Trabalho proposto pela cadeira Algoritmos e Programação: Fundamentos | Unisino
   Silvio Santos está cansado de realizar manualmente o sorteio da Tele Sena. Desta forma, ele solicitou que fosse desenvolvido um sistema para realização dos sorteios de forma automática, bem como a conferência dos resultados e informações sobre ganhadores, valores a serem pagos e lucro com cada sorteio.
 
   Assim sendo, você deve implementar um sistema que seja capaz de:
+    
     • Gerenciar as vendas de uma determinada edição da Tele Sena
+    
     • Realizar o sorteio desta edição da Tele Sena
+    
     • Gerenciar os ganhadores desta edição da Tele Sena
 
   Informações importantes
