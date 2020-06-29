@@ -23,6 +23,7 @@ Trabalho proposto pela cadeira Algoritmos e Programação: Fundamentos | Unisino
     • Cada um dos conjuntos de números de cada Tele Sena possui 25 números aleatórios entre 1 e 60, sem repetições (ou seja, no mesmo conjunto de 25 números não podem haver números repetidos)
     • O valor do prêmio é 80% do valor total de vendas das Tele Senas. Caso haja mais de um ganhador, o prêmio é dividido igualmente entre todos os ganhadores
     • Ao final do sorteio, devem ser informados:
+        
         o Números sorteados na Tele Sena
         o Quantidade de Tele Senas vendidas
         o Quantidade de ganhadores
